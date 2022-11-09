@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the Java language in AP Computer Science A.
 - 📫 How to reach me: 
 Instagram: @laurengallagher14
-Twiter: @laurengall14
+Twitter: @laurengall14
 Email: lauren.21.gallagher@gmail.com
 
 <!---
