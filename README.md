@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurengall
-- 👀 I’m interested in studying computer science in college. 
+- 👀 I’m interested in studying computer science. 
 - 🌱 I’m currently learning the Java language in AP Computer Science A.
 - 📫 How to reach me: 
 Instagram: @laurengallagher14
