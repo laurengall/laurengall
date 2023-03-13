@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laurengall
+- 👋 Hi, I’m @laurengall.
 - 👀 I’m planning on studying computer science at university. 
 - 🌱 I’m currently learning the Java language in AP Computer Science A.
 - 📫 How to reach me: 
