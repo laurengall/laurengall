@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @laurengall.
 - 👀 I’m planning on studying computer science at university (Fall 2024 start date). 
 - 🌱 I’m currently learning the Java language in AP Computer Science A.
+- 💻 Reponsive Web Design Certification from freeCodeCamp.org
 - 📫 How to reach me: 
 Instagram: @laurengallagher14
 Twitter: @laurengall14
